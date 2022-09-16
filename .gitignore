@@ -1,3 +1,6 @@
 Evaluant.Calculator.Play/bin/
-Evaluant.Calculator.Play/obj/Debug/Play.exe
 Evaluant.Calculator.Play/obj/
+.vs/
+Evaluant.Calculator/bin/
+Evaluant.Calculator/obj/
+Evaluant.Calculator.Tests/obj/
